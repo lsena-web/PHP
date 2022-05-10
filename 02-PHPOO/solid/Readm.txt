@@ -1,0 +1,16 @@
+VIDEO EXPLICANDO O S.O.L.I.D
+
+https://www.youtube.com/watch?v=mkx0CdWiPRA
+
+/**
+ * Princípio do S.O.L.I.D
+ * S (Single Responsibility Principle - princípio da responsabilidade única) - não se limita só as classes, métodos e funções também utilizam.
+ * O (Open-Closed Principal - princípil aberto fechado)
+ * L (Liskov Substitution Principle - Princípio da Substituição de Liskov)
+ * I (Interface Segregation Principle - Princípio da segregação da interface)
+ * D (Dependency Inversion Principle - Princípio da inversão da dependência)
+ */
+
+ /**
+ * O S.O.L.I.D torna o software mais robusto, escalável e flexivel, tornando ele muito mais tolerante a mudanças e evoluções.
+ */

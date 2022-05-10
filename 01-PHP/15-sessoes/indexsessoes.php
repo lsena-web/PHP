@@ -1,0 +1,23 @@
+<?php
+
+// APRENDENDO SOBRE SESSÕES
+
+ 
+// ELAS SERVEM PARA ARMAZENAR INFORMAÇÕES QUE PODERÃO SER ULTILIZADAS EM VARIAS PAGINAS
+// GERALMENTE ULTILIZA-SE SESSOÕES PARA CRIAR CARRINHOS DE COMPRAS; SISTEMAS DE LOGIN E ETC
+
+ 
+// INICIAR SESSÃO
+session_start();
+
+// CRIANDO SESSÕES
+$_SESSION ['cor'] = "verde";
+$_SESSION ['carro'] = "veloster";
+
+echo $_SESSION['cor']."<br>".$_SESSION['carro'].session_id();
+
+
+
+
+
+?>

@@ -1,0 +1,14 @@
+{
+
+    "name": "web/vagas",
+    "description": "autoLoad",
+    "authors": [{
+        "name": "lucas sena",
+        "email": "lsena.web@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
